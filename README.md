@@ -1,3 +1,3 @@
-# Endodoncia
+# Laboratorio robótica
 
-Proyecto para el sistema de gestión de pacientes y consultas del posgrado de Endodoncia
+Proyecto para la automatizacióń del laboratorio de robótica
