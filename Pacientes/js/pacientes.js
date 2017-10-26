@@ -1,0 +1,11 @@
+$(document).ready(function(){
+    $("#btnAgregarPaciente").click(function(){
+        $("#contenido").load("insertPacienteForm.php");
+    });
+    $("#btnModificarPaciente").click(function(){
+        $("#contenido").load("updatePacienteForm.php");
+    });
+    $("#btnEliminarPaciente").click(function(){
+        $("#contenido").load("tablaPacientes.php");
+    });
+});
